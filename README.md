@@ -1,19 +1,40 @@
-Backend Portfolio – Manasa Gopireddy
+# Backend Engineering Portfolio – Manasa Gopireddy
 
-This repository is a portfolio hub highlighting backend engineering work in:
+## Overview
+This repository serves as a portfolio showcasing backend engineering work focused on **Java (Spring Boot), AWS cloud technologies, microservices architecture, and secure REST API development**.
 
-Java (Spring Boot) microservices
+## Key Areas
+- Microservices Architecture
+- RESTful API Development
+- Cloud Deployment (AWS)
+- Database Integration (PostgreSQL, MongoDB)
+- API Security (JWT, OAuth 2.0)
+- CI/CD Practices
 
-REST API development
+## Projects
 
-AWS cloud deployment (EC2/Lambda/RDS/S3/IAM)
+### 1. Secure Patient Records API
+A backend application built using Java Spring Boot to manage patient data with secure REST APIs, database integration, and authentication.
 
-Database integration (PostgreSQL, MongoDB)
+Repository:  
+https://github.com/YOURUSERNAME/secure-patient-records-api
 
-API security (OAuth 2.0, JWT)
+---
 
-CI/CD practices (Jenkins, GitHub Actions)
+### 2. AWS Deployment & CI/CD for Microservices
+Demonstrates deployment of Spring Boot services to AWS with Docker containerization and CI/CD pipelines.
 
-Status: I am actively organizing and publishing project examples. Updates will be added regularly.
+Repository:  
+https://github.com/YOURUSERNAME/aws-springboot-deployment
 
-Contact: manasagopireddy25@gmail.com
+---
+
+## Tech Stack
+Java, Spring Boot, Python, AWS, PostgreSQL, MongoDB, Docker, Kubernetes, Jenkins, GitHub Actions
+
+## Status
+Projects are being structured and updated to demonstrate backend system design, cloud deployment, and secure API development.
+
+## Contact
+Email: manasagopireddy25@gmail.com  
+LinkedIn: https://www.linkedin.com/in/gmanasa25/
